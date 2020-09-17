@@ -6,20 +6,25 @@ Web app showing react concepts
 
 ### Prep steps
 
-- Download the repo
+- First download the repo.
 
 ```bash
 git clone https://github.com/petergtam/react-concepts.git
 ```
 
-- Install packages
+- Then go to the repo folder
+
+```bash
+cd react-concepts
+```
+
+- Finally install packages
 
 ```bash
 npm install
 ```
 
 ### Run app
-
 To run the app use the following command in your terminal
 
 ```bash
